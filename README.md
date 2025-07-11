@@ -1,5 +1,5 @@
 <!-- Banner ou imagem de topo -->
-<img src="https://imgur.com/a/sOjy72i" align="center" width="100%"/>
+<img src="https://imgur.com/LfcrRla" align="center" width="100%"/>
 
 <!-- Typing SVG -->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=6000&color=FFFFFF&random=false&width=900&lines=Hey!+I'm+Rodrigo,+but+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats  
 
-| ![Streak](https://streak-stats.demolab.com?user=SolidRinzler&theme=neon) | ![Stats](https://github-readme-stats.vercel.app/api?username=SolidRinzler&theme=neon&show_icons=true) |
+| ![Streak](https://streak-stats.demolab.com?user=Rinzuraa&theme=neon) | ![Stats](https://github-readme-stats.vercel.app/api?username=Rinzuraa&theme=neon&show_icons=true) |
 |:-----------|:-----------|
 
 ##
