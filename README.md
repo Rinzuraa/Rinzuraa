@@ -1,5 +1,3 @@
-<img src="https://imgur.com/LfcrRla.png" align="center" width="100%"/>
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2000&pause=6000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 👾 About Me  
@@ -30,9 +28,10 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 [![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)]
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
+
 ##
 
 ## 📊 GitHub Stats  
