@@ -2,14 +2,13 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2000&pause=6000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
 
-##
-
 ## 👾 About Me  
 
-🎮 Indie Game Developer at **Machine Ghost**  
-⚙️ Currently focused on **Unity**, **C#** and pixel art projects  
-🕹️ Fan of **JoJo's Bizarre Adventure**, **Death Stranding** and horror games  
-👺 Known in the shadows as **Rinzler**
+🎮 Indie Game Developer
+🦾 Degree in Industrial Mechatronics
+⚙️ Currently studying Analysis and Systems Development, focused on Projects, Front-end and game development
+🕹️ Fan of Resident Evil Series, Devil May Cry, story-driven games, and many other action, survival and horror games
+👺 Passionate about immersive narratives, lore and creating unique player experiences
 
 ##
 
@@ -31,6 +30,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)&nbsp;
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 ##
 
@@ -41,7 +43,7 @@
 
 ##
 
-> *𝙰𝚌𝚌𝚎𝚙𝚝 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚓𝚞𝚜𝚝 𝚝𝚑𝚎 𝚠𝚊𝚢 𝚒𝚝 𝚒𝚜*
+> *[𝙰𝚌𝚌𝚎𝚙𝚝 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚓𝚞𝚜𝚝 𝚝𝚑𝚎 𝚠𝚊𝚢 𝚒𝚝 𝚒𝚜.](https://www.youtube.com/watch?v=5LpDNMbG1Jg)*
 
 <div align="center">
   <img width="75%" alt="" src="https://i.imgur.com/wzpC4ne.png">
