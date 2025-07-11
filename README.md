@@ -1,16 +1,18 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2000&pause=6000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
 
+---
+
 ## 👾 About Me  
 
-🎮 Indie Game Developer
-🦾 Degree in Industrial Mechatronics
-⚙️ Currently studying Analysis and Systems Development, focused on Projects, Front-end and game development
-🕹️ Fan of Resident Evil Series, Devil May Cry, story-driven games, and many other action, survival and horror games
-👺 Passionate about immersive narratives, lore and creating unique player experiences
+🎮 Indie Game Developer  
+🦾 Degree in **Industrial Mechatronics**  
+⚙️ Currently studying **Analysis and Systems Development**, focused on **Projects**, **Front-end** and **game development**  
+🕹️ Fan of **Resident Evil Series**, **Devil May Cry**, **story-driven games**, and many other **action, survival and horror games**  
+👺 Passionate about **immersive narratives, lore** and creating unique player experiences  
 
-##
+---
 
-## 📚 Skills
+## 📚 Skills  
 
 **Studying:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,17 +31,17 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)]
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)]
+![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
-##
+---
 
 ## 📊 GitHub Stats  
 
 | ![Streak](https://streak-stats.demolab.com?user=Rinzuraa&theme=neon) | ![Stats](https://github-readme-stats.vercel.app/api?username=Rinzuraa&theme=neon&show_icons=true) |
 |:-----------|:-----------|
 
-##
+---
 
 > *[𝙰𝚌𝚌𝚎𝚙𝚝 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚓𝚞𝚜𝚝 𝚝𝚑𝚎 𝚠𝚊𝚢 𝚒𝚝 𝚒𝚜.](https://www.youtube.com/watch?v=5LpDNMbG1Jg)*
 
