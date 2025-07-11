@@ -1,8 +1,8 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2000&pause=6000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2000&pause=6000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
-## 👾 About Me  
+### 👾 About Me  
 
 🎮 Indie Game Developer  
 🦾 Degree in **Industrial Mechatronics**  
@@ -12,7 +12,7 @@
 
 ---
 
-## 📚 Skills  
+### 📚 Skills  
 
 **Studying:**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 | ![Streak](https://streak-stats.demolab.com?user=Rinzuraa&theme=neon) | ![Stats](https://github-readme-stats.vercel.app/api?username=Rinzuraa&theme=neon&show_icons=true) |
 |:-----------|:-----------|
