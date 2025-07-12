@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 🏆👺 Github Statistics 
 
 | ![Streak](https://streak-stats.demolab.com?user=Rinzuraa&theme=neon) | ![Stats](https://github-readme-stats.vercel.app/api?username=Rinzuraa&theme=neon&show_icons=true) |
 |:-----------|:-----------|
