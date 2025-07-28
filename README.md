@@ -5,7 +5,7 @@
 ### 👾 About Me  
 
 🎮 Indie Game Developer  
-🦾 Bachelor's Degree in **Industrial Mechatronics**  
+🦾 Degree in **Industrial Mechatronics**  
 ⚙️ Currently studying **Systems Analysis and Development**, focused on **Projects**, **Front-end** and **Game development**  
 🕹️ Fan of **Resident Evil Series**, **Devil May Cry**, **story-driven games**, and many other **action, survival and horror games**  
 👺 Passionate about **immersive narratives, lore** and creating unique player experiences  
