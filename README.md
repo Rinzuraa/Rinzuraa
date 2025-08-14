@@ -1,16 +1,22 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2000&pause=6000&color=FFFFFF&random=false&width=1050&height=60&lines=Hey!+my+name+is+Rodrigo%2C+but+you+can+also+call+me+Rinzler!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
-
+<div align="center">
+  
 ### 👾 About Me  
+</div>
 
+<pre>
 🎮 Indie Game Developer  
 🦾 Degree in **Industrial Mechatronics**  
 ⚙️ Currently studying **Systems Analysis and Development**, focused on **Projects**, **Front-end** and **Game development**  
 🕹️ Fan of **Resident Evil Series**, **Devil May Cry**, **story-driven games**, and many other **action, survival and horror games**  
 👺 Passionate about **immersive narratives, lore** and creating unique player experiences  
+</pre>
 
 ---
+
+
 
 ### 📚 Skills  
 
@@ -46,10 +52,16 @@
 
 ---
 
-> *[𝙰𝚌𝚌𝚎𝚙𝚝 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚓𝚞𝚜𝚝 𝚝𝚑𝚎 𝚠𝚊𝚢 𝚒𝚝 𝚒𝚜.](https://www.youtube.com/watch?v=kIFdXbvjgCc)*
+<div align="center">
+
+*[𝙰𝚌𝚌𝚎𝚙𝚝 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 𝚓𝚞𝚜𝚝 𝚝𝚑𝚎 𝚠𝚊𝚢 𝚒𝚝 𝚒𝚜.](https://www.youtube.com/watch?v=kIFdXbvjgCc)*
+
+  <img width="75%" alt="" src="https://i.imgur.com/wzpC4ne.png">
 
 <div align="center">
-  <img width="75%" alt="" src="https://i.imgur.com/wzpC4ne.png">
-</div>
 
+[![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=plastic)](https://www.linkedin.com/in/rodrigo-oliveira-vilalta-373948226)
+[![Static Badge](https://img.shields.io/badge/Guns.lol-purple?style=plastic)](https://guns.lol/rinzura)
+[![Static Badge](https://img.shields.io/badge/Enka.Network-white?style=plastic)](https://enka.network/hsr/600012921)
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=03fcec&descAlign=25&reversal=false&textBg=false&section=footer"/>
