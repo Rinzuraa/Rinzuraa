@@ -60,7 +60,7 @@
 
 *[Accept everything just the way it is.](https://www.youtube.com/watch?v=kIFdXbvjgCc)*  
 
-<img width="75%" src="https://i.imgur.com/wzpC4ne.png" alt="Decorative Banner">
+<img width="90%" src="https://i.imgur.com/wzpC4ne.png" alt="Decorative Banner">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=plastic)](https://www.linkedin.com/in/rodrigo-oliveira-vilalta-373948226)
 [![Guns.lol](https://img.shields.io/badge/Guns.lol-purple?style=plastic)](https://guns.lol/rinzura)
