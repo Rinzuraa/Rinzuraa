@@ -9,10 +9,10 @@
 </div>
 
 <pre>
-🎮 Indie Game Developer  
 🦾 Degree in Industrial Mechatronics  
 ⚙️ Currently studying Systems Analysis and Development  
-   - Focused on Projects, Front-end and Game Development  
+   - Focused on Projects, Front-end and Game Development
+🎮 Indie Game Developer  
 🕹️ Fan of Resident Evil Series, Devil May Cry, story-driven games  
    - And many other action, survival and horror titles  
 👺 Passionate about immersive narratives, lore and unique player experiences  
